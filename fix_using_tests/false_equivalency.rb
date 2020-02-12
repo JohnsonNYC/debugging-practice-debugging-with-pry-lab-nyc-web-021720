@@ -12,9 +12,10 @@ end
 
 def selection(num)
   if num = 1
-     return"YUM YUM MUNCH MUNCH MUNCH"
+     "YUM YUM MUNCH MUNCH MUNCH"
   else num = 2
-     return "HAM HAM HAM IN MY TUMMY"
+     "HAM HAM HAM IN MY TUMMY"
+     binding.pry
   end
 end
 
