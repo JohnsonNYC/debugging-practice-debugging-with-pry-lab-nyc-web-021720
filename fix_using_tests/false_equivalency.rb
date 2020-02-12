@@ -19,7 +19,7 @@ def selection(num)
   end
 end
 
-selction(1)
+selection(1)
 
 def runner
   prompt_user
