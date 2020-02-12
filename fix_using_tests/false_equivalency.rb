@@ -19,6 +19,8 @@ def selection(num)
   end
 end
 
+selction(1)
+
 def runner
   prompt_user
   selection(get_user_input)
